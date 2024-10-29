@@ -14,7 +14,7 @@
 
 <br>
 
-## Estadísticas de inundación
+## Variables 
 
 Tierra Seguros ha recopilado datos relacionados con eventos de inundaciones que han afectado a sus asegurados durante los últimos 10 años. Estos datos incluyen lo siguiente:
 
