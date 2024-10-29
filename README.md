@@ -1,1 +1,1 @@
-# Caso_CAS_Oto-o2024
+# Caso_CAS_Otoño2024
